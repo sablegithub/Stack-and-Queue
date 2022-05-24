@@ -1,0 +1,15 @@
+D:\BridgeLabs Assignment\StackExp\StackExp\bin\Debug\net6.0\StackExp.exe
+D:\BridgeLabs Assignment\StackExp\StackExp\bin\Debug\net6.0\StackExp.deps.json
+D:\BridgeLabs Assignment\StackExp\StackExp\bin\Debug\net6.0\StackExp.runtimeconfig.json
+D:\BridgeLabs Assignment\StackExp\StackExp\bin\Debug\net6.0\StackExp.dll
+D:\BridgeLabs Assignment\StackExp\StackExp\bin\Debug\net6.0\StackExp.pdb
+D:\BridgeLabs Assignment\StackExp\StackExp\obj\Debug\net6.0\StackExp.csproj.AssemblyReference.cache
+D:\BridgeLabs Assignment\StackExp\StackExp\obj\Debug\net6.0\StackExp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabs Assignment\StackExp\StackExp\obj\Debug\net6.0\StackExp.AssemblyInfoInputs.cache
+D:\BridgeLabs Assignment\StackExp\StackExp\obj\Debug\net6.0\StackExp.AssemblyInfo.cs
+D:\BridgeLabs Assignment\StackExp\StackExp\obj\Debug\net6.0\StackExp.csproj.CoreCompileInputs.cache
+D:\BridgeLabs Assignment\StackExp\StackExp\obj\Debug\net6.0\StackExp.dll
+D:\BridgeLabs Assignment\StackExp\StackExp\obj\Debug\net6.0\refint\StackExp.dll
+D:\BridgeLabs Assignment\StackExp\StackExp\obj\Debug\net6.0\StackExp.pdb
+D:\BridgeLabs Assignment\StackExp\StackExp\obj\Debug\net6.0\StackExp.genruntimeconfig.cache
+D:\BridgeLabs Assignment\StackExp\StackExp\obj\Debug\net6.0\ref\StackExp.dll
