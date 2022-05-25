@@ -6,21 +6,23 @@ using System.Threading.Tasks;
 
 namespace StackExp
 {
+    // Stack perform LIFO/FILO operation
+    // In Stack Perform PUSH,POP,PEEK Operation
     public class Stack
     {
         Node top;
-        public Stack()
+        public Stack() 
         {
             top = null;
         }
-        public void push(int data)
+        public void push(int data) // insert element into stack
         {
             Node newnode = new Node(data);
             newnode.next = top;
             top = newnode;
         }
 
-        public  void pop()
+        public  void pop() // delete element from stack
         {
             if (top == null)
             {
@@ -29,7 +31,7 @@ namespace StackExp
             Console.WriteLine("\n");
             this.top = this.top.next;
         }
-        public void peek()
+        public void peek() // Topmost element from stack
         {
             if (top == null)
             {
